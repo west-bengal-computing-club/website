@@ -1,5 +1,8 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Project'
+# Add and uncomment baseURL when domain name is acquired
+#baseURL = 'https://example.org/'
 
+languageCode = 'en-us'
+title = 'West Bengal Computing Club'
+
+# Very minimal and customizable theme, since opinions on the vast collection of hugo themes causes confusion. Do discuss before changing this
 theme = 'hugo-xmin'
