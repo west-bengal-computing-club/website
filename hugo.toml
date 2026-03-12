@@ -4,5 +4,5 @@
 languageCode = 'en-us'
 title = 'West Bengal Computing Club'
 
-# Very minimal and customizable theme, since opinions on the vast collection of hugo themes causes confusion. Do discuss before changing this
+# Very minimal and customizable theme chosen by me (Projjal Moitra <moitraprojjal@disroot.org>) for the first time initialization, since multiple opinions on the vast collection of hugo themes causes confusion. Do discuss in community before changing this
 theme = 'hugo-xmin'
