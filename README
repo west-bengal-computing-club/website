@@ -1,0 +1,5 @@
+The official website of West Bengal Computing Club
+
+Cloning the repository
+----------------------
+git clone --recurse-submodules https://codeberg.org/west-bengal-computing-club/website.git
